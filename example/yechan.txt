@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello~ My name is yechan :)
+=======
+hello~
+ㅎㅇ
+>>>>>>> f250c813c6c09c386a278ca8c5cf92a80bc8cf6d
